@@ -1,6 +1,6 @@
 research into session ranges
 
-todo:
+##### todo
 research what makes a session trend more
 research what sessions tend to trend vs chop, does the previous session cause that?
 
